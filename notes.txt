@@ -1,0 +1,35 @@
+Boiler plate
+<html>
+<head>
+<meta>
+<title></title>
+</head>
+<body></body>
+
+</html>
+
+differnt type of tags
+block level element 
+
+<div></div>
+<h1></h1>
+<p></p>
+
+inline level element
+
+<span></span>
+<i></i>
+<b></b>
+<stronger>similar to bold</stronger>
+<lighter></lighter>
+<mark>used to highlight</mark>
+
+Different inputs
+
+// to get the values from the user
+//<!-- it is a self closing tag -->
+
+
+tyoes of list
+ordered list
+unordered list
